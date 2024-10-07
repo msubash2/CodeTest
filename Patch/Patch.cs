@@ -34,6 +34,18 @@ namespace Patch
             var patchFileData = new List<List<string>>();
             var patchheaderRow = new List<string>();
 
+            var absPath = Path.GetFullPath(origFile);
+            if (!File.Exists(absPath))
+            {
+                throw new Exception($"File does not exist: {absPath}");
+            }
+
+            absPath = Path.GetFullPath(patchFile);
+            if (!File.Exists(absPath))
+            {
+                throw new Exception($"File does not exist: {absPath}");
+            }
+
             Console.WriteLine(ReadingFile, origFile);
             using var origFileReader = new StreamReader(origFile);
             (origFileData, origHeaderRow) = LoadFileData(origFileReader);
