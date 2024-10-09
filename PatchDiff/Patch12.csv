@@ -5,3 +5,31 @@ BeginDate,EndDate,Issuer,Sectors,Industry,Country,Conviction,Analyst,State
 20240201,,FR1,,,FRA,Low,Bob,
 ,,PIPR1,,,USA,High,,
 20240301,,IBM,,,,Low,,
+,,JBL1,Computers,,USA,,Jack,MA
+,,PIPR2,Consumer Discretionary,,FRA,,,CA
+,,JBL2,Computers,,USA,,Jack,MA
+,,PIPR3,Consumer Discretionary,,FRA,,,IL
+,,JBL3,Computers,,USA,,Jack,MA
+,,PIPR4,Consumer Discretionary,,FRA,,,FL
+,,JBL4,Computers,,USA,,Jack,MA
+,,PIPR5,Consumer Discretionary,,FRA,,,IL
+,,JBL5,Computers,,USA,,Jack,MA
+,,PIPR6,Consumer Discretionary,,FRA,,,NY
+,,JBL6,Computers,,USA,,Jack,MA
+,,PIPR7,Consumer Discretionary,,FRA,,,IL
+,,JBL7,Computers,,USA,,Jack,MA
+,,PIPR8,Consumer Discretionary,,FRA,,,FL
+,,JBL8,Computers,,USA,,Jack,MA
+,,PIPR9,Consumer Discretionary,,FRA,,,RI
+,,JBL9,Computers,,USA,,Jack,MA
+,,PIPR10,Consumer Discretionary,,FRA,,,IL
+,,JBL10,Computers,,USA,,Jack,MA
+,,PIPR11,Consumer Discretionary,,FRA,,,IL
+,,JBL11,Computers,,USA,,Jack,MA
+,,PIPR12,Consumer Discretionary,,FRA,,,CT
+,,JBL12,Computers,,USA,,Jack,MA
+,,PIPR13,Consumer Discretionary,,FRA,,,IL
+,,JBL13,Computers,,USA,,Jack,MA
+,,PIPR14,Consumer Discretionary,,FRA,,,IL
+,,JBL14,Computers,,USA,,Jack,MA
+,,PIPR15,Consumer Discretionary,,FRA,,,CO
