@@ -22,7 +22,7 @@ namespace Patch
         private const string INVALIDARRAYINDEX = "Invalid Array Index";
 
         /// <summary>
-        /// Compate Path Files.
+        /// Compare Patch Files.
         /// </summary>
         /// <param name="origFile">File Name with Path</param>
         /// <param name="patchFile">File Name with Path</param>
